@@ -29,7 +29,7 @@ for ($i = 0; $i < $round; $i++)
     {
         echo '第 ';
         echo CLI::colorText($serial, CLI_COLOR_SERIAL);
-        echo ' 人在';
+        echo ' 人在 ';
         echo CLI::colorText($data['Displayed'], CLI_COLOR_LOCATION, true);
     }
 
