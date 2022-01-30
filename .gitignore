@@ -26,3 +26,4 @@ vendor/
 
 # For this project
 cli/test.php
+storage/tsv/record.tsv
